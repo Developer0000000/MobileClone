@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg_image {
+    background: url(./assets/black.jpg) no-repeat center/cover;
+}
